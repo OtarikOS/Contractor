@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Contractor</string>
+    <string name="hint_spinner_City" translatable="false">Выберите город</string>
+</resources>
